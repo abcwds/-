@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#FFD700"/>
+  <circle cx="300" cy="280" r="150" fill="#F4A460"/>
+  <circle cx="300" cy="260" r="100" fill="#DEB887"/>
+  <circle cx="250" cy="240" r="20" fill="#1a1a1a"/>
+  <circle cx="350" cy="240" r="20" fill="#1a1a1a"/>
+  <circle cx="255" cy="235" r="8" fill="#fff"/>
+  <circle cx="355" cy="235" r="8" fill="#fff"/>
+  <ellipse cx="300" cy="280" rx="25" ry="20" fill="#1a1a1a"/>
+  <circle cx="280" cy="275" r="3" fill="#ff6b6b"/>
+  <circle cx="320" cy="275" r="3" fill="#ff6b6b"/>
+  <ellipse cx="220" cy="260" rx="25" ry="15" fill="#ffb6c1" opacity="0.6"/>
+  <ellipse cx="380" cy="260" rx="25" ry="15" fill="#ffb6c1" opacity="0.6"/>
+  <path d="M280 300 Q300 320 320 300" stroke="#1a1a1a" stroke-width="3" fill="none"/>
+  <text x="300" y="550" font-family="Arial" font-size="24" text-anchor="middle" fill="#333">Golden Retriever</text>
+</svg>

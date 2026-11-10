@@ -1,0 +1,38 @@
+# Dependencies
+**/node_modules/
+
+# Build outputs
+**/dist/
+**/target/
+
+# Runtime logs and temporary output
+*.log
+**/*.log
+**/runtime-*.out.log
+**/frontend-*.out.log
+**/backend-*.out.log
+**/server.out.log
+
+# Browser profiles, caches, and generated artifacts
+.chrome-debug-admin/
+.headless-*/
+**/.headless-*/
+**/*.pyc
+**/*.class
+/test-results/
+/**/test-results/
+/_doc_work/
+/ppt_work/
+
+# IDE and local tooling
+.idea/
+.vscode/
+.workbuddy/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+**/application-local.yml
+**/application-local.yaml
+backend/src/main/resources/application.yml
